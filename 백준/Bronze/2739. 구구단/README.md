@@ -1,6 +1,8 @@
 # [Bronze V] 구구단 - 2739 
 " " 말고 
 " * " " = " 이렇게 하면 공백 생김
+
+
 [문제 링크](https://www.acmicpc.net/problem/2739) 
 
 ### 성능 요약
