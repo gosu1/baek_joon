@@ -1,4 +1,7 @@
 # [Bronze V] 개수 세기 - 10807 
+sum 값을 0부터 시작하고 싶으면 항상 int sum = 0; 으로 초기화 시켜주고 사용
+
+
 
 [문제 링크](https://www.acmicpc.net/problem/10807) 
 
